@@ -1,5 +1,5 @@
 # Breast-Cancer-Prediction
-Using Support Vector Machine to classify  whether a patient has breast cancer or not depending upon various factors.
+Using Support Vector Machine to classify  whether a patient has breast cancer or not depending upon various biological and social factors.
 
 
 #About Dataset
